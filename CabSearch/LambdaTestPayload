@@ -1,0 +1,7 @@
+{
+  "queryStringParameters": {
+    "source": "New York",
+    "destination": "Boston",
+    "seats": "2"
+  }
+}
