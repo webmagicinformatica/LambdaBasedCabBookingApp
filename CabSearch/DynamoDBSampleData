@@ -1,0 +1,36 @@
+{
+  "CabTable": [
+    {
+      "id": "1",
+      "driverName": "John Doe",
+      "currentLocation": "New York",
+      "destination": "Boston",
+      "availableSeats": 4,
+      "status": "available"
+    },
+    {
+      "id": "2",
+      "driverName": "Jane Smith",
+      "currentLocation": "Boston",
+      "destination": "New York",
+      "availableSeats": 2,
+      "status": "available"
+    },
+    {
+      "id": "3",
+      "driverName": "Bob Johnson",
+      "currentLocation": "Washington DC",
+      "destination": "New York",
+      "availableSeats": 3,
+      "status": "unavailable"
+    },
+    {
+      "id": "4",
+      "driverName": "Sarah Lee",
+      "currentLocation": "New York",
+      "destination": "Washington DC",
+      "availableSeats": 1,
+      "status": "available"
+    }
+  ]
+}
